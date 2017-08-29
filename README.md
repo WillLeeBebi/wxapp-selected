@@ -3,5 +3,4 @@
 
 效果如下：
 
-![效果图](http://github.com/herry-zhang/wxapp-selected/raw/master/images/aabccd.gif)
-
+![](https://github.com/herry-zhang/wxapp-selected/blob/master/images/aabccd.gif)
